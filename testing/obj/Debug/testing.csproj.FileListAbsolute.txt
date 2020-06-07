@@ -1,0 +1,11 @@
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\bin\Debug\testing.exe.config
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\bin\Debug\testing.exe
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\bin\Debug\testing.pdb
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\bin\Debug\InternalSort(n11b).exe
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\bin\Debug\InternalSort(n11b).pdb
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\bin\Debug\InternalSort(n11b).exe.config
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\obj\Debug\testing.csprojAssemblyReference.cache
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\obj\Debug\testing.csproj.CopyComplete
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\obj\Debug\testing.exe
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\testing\obj\Debug\testing.pdb

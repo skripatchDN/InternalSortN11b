@@ -1,0 +1,10 @@
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\bin\Debug\InternalSort(n11b).exe.config
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\bin\Debug\InternalSort(n11b).exe
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\bin\Debug\InternalSort(n11b).pdb
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\obj\Debug\InternalSort(n11b).csprojAssemblyReference.cache
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\obj\Debug\InternalSort_n11b_.Form1.resources
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\obj\Debug\InternalSort_n11b_.Properties.Resources.resources
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\obj\Debug\InternalSort(n11b).csproj.GenerateResource.cache
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\obj\Debug\InternalSort(n11b).csproj.CoreCompileInputs.cache
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\obj\Debug\InternalSort(n11b).exe
+F:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\InternalSort(n11b)\InternalSort(n11b)\obj\Debug\InternalSort(n11b).pdb
